@@ -1,0 +1,16 @@
+# Place your documents here
+
+This directory is for storing your PDF, DOCX, and TXT files that you want to analyze with the Q&A system.
+
+## Supported File Types:
+
+- PDF files (.pdf)
+- Word documents (.docx)
+- Text files (.txt)
+
+## Tips:
+
+- Use clear, well-formatted documents for best results
+- Avoid scanned PDFs (OCR text works but isn't optimal)
+- Keep individual files under 50MB for performance
+- Organize files in subdirectories if needed
